@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+   }
+  .products{
+    background-color:gold;
+      padding:20px;
+    
+    
+  }
+  .eachproduct{
+    margin:50px;
+  }
+  img{
+    max-width:50vw;
+    height:auto;
+  }
+  .producthead{
+    font-size:1.5em;
+    font-weight:bold;
+  }
+  .producttitle{
+    color:red;
+  }
